@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     # 3rd party
 
     # lcoal
-    'apps.account'
+    'apps.account',
+    'apps.socialauth',
 
 ]
 
