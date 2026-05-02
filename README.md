@@ -1,7 +1,7 @@
-## DRF - Starter Template
+# DRF - Starter Template
 
 
-# What is include?
+## What it included?
 - Custom user model
 - User authentication
 - Social authentication (Google)
